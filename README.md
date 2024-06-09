@@ -45,14 +45,4 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Bartosz-Koza&&style=flat-square)  
-  
-
-<br/>  
-
-
 <br />
