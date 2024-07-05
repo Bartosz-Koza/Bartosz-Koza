@@ -12,4 +12,4 @@ Hi 👋 My name is Bartosz-Koza. I'm a passionate Full Stack Developer with expe
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bartosz-Koza&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Bartosz-Koza&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
